@@ -6,9 +6,6 @@ const routes: Routes = [
         path: "",
         pathMatch: "full",
         redirectTo: "shop-items"
-    },
-    {
-        // TODO add a detail view for the item here
     }
 ];
 
